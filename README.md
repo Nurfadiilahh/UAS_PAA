@@ -72,3 +72,4 @@ c. Average Case:
    - Waktu Komputasi: Bervariasi, tergantung pada struktur grafik yang dihasilkan
 
 # NUR FADILLAH_F55121047
+# Kelas : B
